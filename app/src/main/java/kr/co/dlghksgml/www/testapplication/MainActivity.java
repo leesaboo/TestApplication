@@ -19,5 +19,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("하이 헬로");
         System.out.println("하이 헬로");
         System.out.println("하이 헬로");
+        System.out.println("하이 헬로");
+        System.out.println("하이 헬로");
+        System.out.println("하이 헬로");
     }
 }
