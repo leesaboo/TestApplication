@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("하이 에브리원");
+        System.out.println("하이 에브리원2");
     }
 }
