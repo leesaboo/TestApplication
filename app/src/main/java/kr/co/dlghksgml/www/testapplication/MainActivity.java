@@ -15,5 +15,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("하이 에브리원2");
         System.out.println("하이 헬로");
         System.out.println("하이 헬로");
+        System.out.println("하이 헬로");
+        System.out.println("하이 헬로");
+        System.out.println("하이 헬로");
     }
 }
